@@ -1,7 +1,7 @@
 
 # Email Accessor and Processor
 
-This Python script enables automated access to Gmail using IMAP, fetches specific emails based on criteria, processes attachments, and logs actions to a file.
+This Python script enables automated access to Gmail using IMAP, fetches specific emailsand download its attachments based on criteria, processes attachments, and logs actions to a file.
 
 ## Features
 
